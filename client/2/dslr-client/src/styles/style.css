@@ -1,0 +1,18 @@
+.list-frame {
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-frame :hover {
+    background-color: azure;
+}
+
+.text-darkgrey {
+    color: #282C34;
+}
